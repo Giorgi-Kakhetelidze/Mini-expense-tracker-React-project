@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mini-expense-tracker-React-project/static/css/main.4131b99e.css",
+    "main.js": "/Mini-expense-tracker-React-project/static/js/main.e1c8a672.js",
+    "index.html": "/Mini-expense-tracker-React-project/index.html",
+    "main.4131b99e.css.map": "/Mini-expense-tracker-React-project/static/css/main.4131b99e.css.map",
+    "main.e1c8a672.js.map": "/Mini-expense-tracker-React-project/static/js/main.e1c8a672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4131b99e.css",
+    "static/js/main.e1c8a672.js"
+  ]
+}
